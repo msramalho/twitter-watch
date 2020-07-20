@@ -45,6 +45,6 @@ docker exec -it twitter-watch_core_1 bash
 ```
 
 ### Pre-commit
-Check [pre-commit.com](https://pre-commit.com/hooks.html) for more pre-commit functionality and then add it to the [pre-commit config file](pre-commit-config.yaml).
+Check [pre-commit.com](https://pre-commit.com/hooks.html) for more pre-commit functionality and then add it to the [pre-commit config file](.pre-commit-config.yaml).
 
 To run, execute `pre-commit run --all-files`.
