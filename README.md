@@ -1,4 +1,4 @@
-<h1 align="center">Twitter Watch</h1>
+<h1 align="center"><img align="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"> Twitter Watch</h1>
 <p align="center">A framework for Twitter data collection.</p>
 
 * [core](core/) contains the code for data collection
