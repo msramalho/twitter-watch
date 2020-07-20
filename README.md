@@ -1,5 +1,5 @@
-# Twitter Watch
-A framework for Twitter data collection.
+<h1 align="center">Twitter Watch</h1>
+<p align="center">A framework for Twitter data collection.</p>
 
 * [core](core/) contains the code for data collection
 * [ui](ui/) contains the code for the UI, it can be automatically deployed to gh-pages. you can also use [the original UI client](https://msramalho.github.io/twitter-watch) if you deployed your own core collection by changing the access URL to your own.
