@@ -16,21 +16,21 @@
         "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
     },
     "dependencies": {
-        "@nuxtjs/axios": "^5.3.6",
-        "cookie-universal-nuxt": "^2.1.3",
+        "@nuxtjs/axios": "^5.12.1",
+        "cookie-universal-nuxt": "^2.1.4",
         "dotenv": "^8.2.0",
         "npm-install-peers": "^1.2.1",
-        "nuxt": "^2.0.0",
-        "plotly.js-dist": "^1.53.0"
+        "nuxt": "^2.14.3",
+        "plotly.js-dist": "^1.54.7"
     },
     "devDependencies": {
         "@nuxtjs/eslint-config": "^2.0.0",
-        "@nuxtjs/eslint-module": "^1.0.0",
-        "@nuxtjs/vuetify": "^1.0.0",
+        "@nuxtjs/eslint-module": "^1.2.0",
+        "@nuxtjs/vuetify": "^1.11.2",
         "babel-eslint": "^10.0.1",
         "cross-env": "^7.0.2",
         "eslint": "^6.1.0",
-        "eslint-plugin-nuxt": ">=0.4.2",
+        "eslint-plugin-nuxt": "^1.0.0",
         "push-dir": "^0.4.1"
     }
 }
